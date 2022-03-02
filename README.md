@@ -7,15 +7,14 @@ I ❤ to work on Excel a lot.
 ============================
 
 - My Skills
-❤C#❤
-❤Web API❤
-❤LINQ❤
-❤Entity Framework❤
-❤SQL❤
+- ❤C#❤
+- ❤Web API❤
+- ❤LINQ❤
+- ❤Entity Framework❤
+- ❤SQL❤
 
 Hey, thanks for your time reading this.
-I can code complex stuff, but I would only code, what is new and not available on google. If its available on google, lets use it.
-
+I can code complex stuff [At least that is what I like to believe 😜], but I would only code, what is new and not available on google. If its available on google, lets use it.
 
 
 <!--
