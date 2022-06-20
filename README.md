@@ -1,17 +1,19 @@
 ### Hi there 👋
 
 
-I am Nisarg Shah. Senior Software Engineer by profession with 10+ years of experience in .net.
+I am Nisarg Shah. Senior Software Engineer by profession with 11+ years of experience in .net.
 ==============================================================================================
 I ❤ to work on Excel a lot.
 ============================
 
 - My Skills
-- ❤C#❤
-- ❤Web API❤
-- ❤LINQ❤
-- ❤Entity Framework❤
-- ❤SQL❤
+- C#
+- Web API
+- LINQ
+- Entity Framework
+- SQL
+
+- 🌱 I’m currently planning to learn Kubernetes Orchestration, Microservices and Docker.
 
 Hey, thanks for your time reading this.
 I can code complex stuff [At least that is what I like to believe 😜], but I would only code, what is new and not available on google. If its available on google, lets use it.
